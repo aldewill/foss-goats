@@ -1,3 +1,9 @@
+## About
+Here's a list of open source applications that I personally consider to be the GOATs in my life, i.e the ones I am using and would personally recommend to anyone! I consider all of these to be much better than
+paid alternatives. 
+
+Under the name column, the official homepage of the application is linked, if it exists.
+
 ## General
 
 | Name  | Platform | Purpose  | Why I use it | Source  |
@@ -30,7 +36,7 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Krita](https://krita.org) | Linux/Mac/Windows | Digital painting | You'd be hard-pressed to find a better painting/raster graphics editor | https://invent.kde.org/graphics/krita |
 | [Blender](https://www.blender.org/) | Linux/Mac/Windows | 3D graphics | Professional-quality 3D software for free, does it all | https://projects.blender.org/blender/blender.git |
-| [Godot](https://godotengine.org/) | Linux/Mac/Windows | Game engine | Lightweight and featureful non-commercial game engine, especially great for 2D | https://projects.blender.org/blender/blender.git |
+| [Godot](https://godotengine.org/) | Linux/Mac/Windows | Game engine | Lightweight and featureful game engine, especially great for 2D | https://projects.blender.org/blender/blender.git |
 
 ## Media
 
