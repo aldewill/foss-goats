@@ -49,11 +49,14 @@ Under the name column, the official homepage of the application is linked, if it
 | [OBS Studio](https://obsproject.com) | Linux/Mac/Windows | Screen recording/streaming | If you ever need to record your screen, just use this | https://github.com/obsproject/obs-studio |
 | EasyEffects | Linux | Desktop audio effects and filters | Makes my headphones and microphone sound much better with equalizer and the right filters | https://github.com/wwmm/easyeffects |
 
-## Games
+## Gaming
 
 | Name  | Platform | Purpose  | Why I use it | Source  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Prism Launcher](https://prismlauncher.org/) | Linux/Mac/Windows | Minecraft launcher | Polished, no ads, easily install different Minecraft versions and mods. Can't play MC without this. | https://github.com/prismlauncher/PrismLauncher |
+| [RetroArch](https://www.retroarch.com) | All | Emulator frontend | Fullfills all my retro gaming needs. Has neat filters for CRT effects etc. | https://github.com/libretro/retroarch |
+| [ProtonPlus](https://protonplus.vysp3r.com/) | Linux | Manage Windows compatibility tools on Linux | I use it for keeping the awesome [Proton-GE](https://github.com/gloriouseggroll/proton-ge-custom) updated | https://github.com/Vysp3r/ProtonPlus |
+
 
 
 
