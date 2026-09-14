@@ -28,7 +28,7 @@ Under the name column, the official homepage of the application is linked, if it
 
 | Name  | Platform | Purpose  | Why I use it | Repo  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Proton Pass](https://proton.me/pass) | All | Password manager | If don't use a password manager, you should | https://github.com/protonpass |
+| [Proton Pass](https://proton.me/pass) | All | Password manager | If you don't use a password manager, you should | https://github.com/protonpass |
 | [Aegis Authenticator](https://getaegis.app/) | Android | Two-step verification app | Polished interface that "just works" | https://github.com/beemdevelopment/aegis |
 
 ## Creative
