@@ -37,7 +37,7 @@ Under the name column, the official homepage of the application is linked, if it
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Krita](https://krita.org) | Linux/Mac/Windows | Digital painting | You'd be hard-pressed to find a better painting/raster graphics editor | https://invent.kde.org/graphics/krita |
 | [Blender](https://www.blender.org/) | Linux/Mac/Windows | 3D graphics | Professional-quality 3D software for free, does it all | https://projects.blender.org/blender/blender.git |
-| [Godot](https://godotengine.org/) | Linux/Mac/Windows | Game engine | Lightweight and featureful game engine, especially great for 2D | https://projects.blender.org/blender/blender.git |
+| [Godot](https://godotengine.org/) | Linux/Mac/Windows | Game engine | Lightweight and featureful game engine, especially great for 2D | https://github.com/godotengine |
 
 ## Media
 
