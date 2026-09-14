@@ -18,7 +18,7 @@ Under the name column, the official homepage of the application is linked, if it
 
 ## Text processing/office
 
-| Name  | Platform | Purpose  | Why I use it | Repo  |
+| Name  | Platform | Purpose  | Why I use it | Source  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Libre Office](https://www.libreoffice.org/) | Linux/Mac/Windows | Full office suite | Fully replaces MS Office for me | https://git.libreoffice.org/ |
 | [NotepadPlusPlus](https://notepad-plus-plus.org/) | Windows | Text editor | Opens literally everything without questions | https://github.com/notepad-plus-plus/notepad-plus-plus |
@@ -26,14 +26,14 @@ Under the name column, the official homepage of the application is linked, if it
 
 ## Security/passwords
 
-| Name  | Platform | Purpose  | Why I use it | Repo  |
+| Name  | Platform | Purpose  | Why I use it | Source  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Proton Pass](https://proton.me/pass) | All | Password manager | If you don't use a password manager, you should | https://github.com/protonpass |
 | [Aegis Authenticator](https://getaegis.app/) | Android | Two-step verification app | Polished interface that "just works" | https://github.com/beemdevelopment/aegis |
 
 ## Creative
 
-| Name  | Platform | Purpose  | Why I use it | Repo  |
+| Name  | Platform | Purpose  | Why I use it | Source  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Krita](https://krita.org) | Linux/Mac/Windows | Digital painting | You'd be hard-pressed to find a better painting/raster graphics editor | https://invent.kde.org/graphics/krita |
 | [Blender](https://www.blender.org/) | Linux/Mac/Windows | 3D graphics | Professional-quality 3D software for free, does it all | https://projects.blender.org/blender/blender.git |
@@ -41,7 +41,7 @@ Under the name column, the official homepage of the application is linked, if it
 
 ## Media
 
-| Name  | Platform | Purpose  | Why I use it | Repo  |
+| Name  | Platform | Purpose  | Why I use it | Source  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [VLC](https://www.videolan.org/) | All | Media player | Can play everything you throw at it, and plays it well | https://code.videolan.org/videolan/vlc |
 | [HandBrake](https://handbrake.fr/) | Linux/Mac/Windows | Video transcoding | Reliable convert or reduce video file size without relying on sketchy websites | https://github.com/HandBrake/HandBrake |
@@ -51,7 +51,7 @@ Under the name column, the official homepage of the application is linked, if it
 
 ## Games
 
-| Name  | Platform | Purpose  | Why I use it | Repo  |
+| Name  | Platform | Purpose  | Why I use it | Source  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Prism Launcher](https://prismlauncher.org/) | Linux/Mac/Windows | Minecraft launcher | Polished, no ads, easily install different Minecraft versions and mods. Can't play MC without this. | https://github.com/prismlauncher/PrismLauncher |
 
