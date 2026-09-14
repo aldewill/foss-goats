@@ -9,7 +9,8 @@ Under the name column, the official homepage of the application is linked, if it
 | Name  | Platform | Purpose  | Why I use it | Source  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Linux | Something with electricity | Makes most free operating systems possible | I like to control my OS, I don't like it controlling me | https://github.com/torvalds/linux (kernel) |
-| [Fedora Linux](https://fedoraproject.org/) | amd64, aarch64 | Linux distribution (OS) | Widely supported, reliable developers, fast but sensible update cycle, large community | https://fedoraproject.org/ |
+| [Fedora Linux](https://fedoraproject.org/) | amd64, aarch64 | Linux distribution (OS) | Widely supported, reliable developers, fast but sensible update cycle, big community. I like dnf more than apt. | https://fedoraproject.org/ |
+| [Ubuntu](https://ubuntu.com/desktop/) | amd64, aarch64 | Linux distribution (OS) | The most well known and supported Linux distribution. Extremely reliable and stable, huge community. My recommendation for beginners along with [Kubuntu](https://kubuntu.org/).| https://github.com/orgs/ubuntu/repositories |
 | [Firefox](https://www.firefox.com) | All | Web browser | The only viable non-Chromium browser for me | https://github.com/mozilla-firefox/firefox |
 | [SyncThing](https://syncthing.net) | All | File synchronizer | Synchronizes files between all my devices without relying on a server. Pretty much magic. | https://github.com/ip7z/7zip |
 | [qBittorrent](https://www.qbittorrent.org/) | Linux/Mac/Windows | BitTorrent client | I can't believe I used to use uTorrent... | https://github.com/qbittorrent/qBittorrent |
